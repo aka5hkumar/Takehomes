@@ -1,0 +1,9 @@
+.jumbo{
+    size: 40pt;
+    color: white;
+}
+.body{
+    background-color: black;
+    color: white;
+    font-family: sans-serif;
+}
